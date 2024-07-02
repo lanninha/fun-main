@@ -1,5 +1,4 @@
-// HelloWorld.kt
- fun main() {
+fun main() {
  	println("Hello, World!")
  	saudacao()
  }
